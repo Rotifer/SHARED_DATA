@@ -1,4 +1,4 @@
-season	team_name	games_won	games_drawn	games_lost	goals_scored	goals_conceded	goal_difference	points_total
+season	club_name	games_won	games_drawn	games_lost	goals_scored	goals_conceded	goal_difference	points_total
 1992-1993	Arsenal	15	11	16	40	38	2	56
 1992-1993	Aston Villa	21	11	10	57	40	17	74
 1992-1993	Blackburn Rovers	20	11	11	68	46	22	71
