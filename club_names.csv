@@ -1,76 +1,26 @@
-"club_name"
-"Arsenal"
-"Aston Villa"
-"Barnsley"
-"Birmingham"
-"Blackburn"
-"Blackburn Rovers"
-"Blackpool"
-"Bolton"
-"Bolton Wanderers"
-"Bournemouth"
-"Bradford"
-"Bradford City"
-"Brentford"
-"Brighton"
-"Brighton & Hove Albion"
-"Burnley"
-"Cardiff"
-"Cardiff City"
-"Charlton"
-"Charlton Athletic"
-"Chelsea"
-"Coventry"
-"Coventry City"
-"Crystal Palace"
-"Derby"
-"Derby County"
-"Everton"
-"Fulham"
-"Huddersfield"
-"Huddersfield Town"
-"Hull"
-"Ipswich"
-"Ipswich Town"
-"Leeds"
-"Leeds United"
-"Leeds Utd"
-"Leicester"
-"Leicester City"
-"Liverpool"
-"Man City"
-"Man United"
-"Man Utd"
-"Manchester City"
-"Manchester United"
-"Middlesboro"
-"Middlesbrough"
-"Newcastle"
-"Newcastle United"
-"Norwich"
-"Norwich City"
-"Nottingham Forest"
-"Oldham Athletic"
-"Portsmouth"
-"QPR"
-"Queens Park Rangers"
-"Reading"
-"Sheffield United"
-"Sheffield Utd"
-"Sheffield Wednesday"
-"Southampton"
-"Spurs"
-"Stoke"
-"Sunderland"
-"Swansea"
-"Swindon Town"
-"Tottenham"
-"Tottenham Hotspur"
-"Watford"
-"West Brom"
-"West Ham"
-"West Ham United"
-"Wigan"
-"Wimbledon"
-"Wolverhampton Wanderers"
-"Wolves"
+club_name_to_use,club_name_alias,UPDATE epl_matches SET away_club = ,WHERE away_club =
+Blackburn Rovers,Blackburn,UPDATE epl_matches SET away_club = 'Blackburn Rovers' WHERE away_club ='Blackburn';,
+Bolton Wanderers,Bolton,UPDATE epl_matches SET away_club = 'Bolton Wanderers' WHERE away_club ='Bolton';,
+Bradford City,Bradford,UPDATE epl_matches SET away_club = 'Bradford City' WHERE away_club ='Bradford';,
+Cardiff City,Cardiff,UPDATE epl_matches SET away_club = 'Cardiff City' WHERE away_club ='Cardiff';,
+Charlton Athletic,Charlton,UPDATE epl_matches SET away_club = 'Charlton Athletic' WHERE away_club ='Charlton';,
+Coventry City,Coventry,UPDATE epl_matches SET away_club = 'Coventry City' WHERE away_club ='Coventry';,
+Derby County,Derby,UPDATE epl_matches SET away_club = 'Derby County' WHERE away_club ='Derby';,
+Huddersfield Town,Huddersfield,UPDATE epl_matches SET away_club = 'Huddersfield Town' WHERE away_club ='Huddersfield';,
+Ipswich Town,Ipswich,UPDATE epl_matches SET away_club = 'Ipswich Town' WHERE away_club ='Ipswich';,
+Leeds United,Leeds,UPDATE epl_matches SET away_club = 'Leeds United' WHERE away_club ='Leeds';,
+Leeds United,Leeds Utd,UPDATE epl_matches SET away_club = 'Leeds United' WHERE away_club ='Leeds Utd';,
+Leicester City,Leicester,UPDATE epl_matches SET away_club = 'Leicester City' WHERE away_club ='Leicester';,
+Manchester City,Man City,UPDATE epl_matches SET away_club = 'Manchester City' WHERE away_club ='Man City';,
+Manchester United,Man United,UPDATE epl_matches SET away_club = 'Manchester United' WHERE away_club ='Man United';,
+Manchester United,Man Utd,UPDATE epl_matches SET away_club = 'Manchester United' WHERE away_club ='Man Utd';,
+Middlesbrough,Middlesboro,UPDATE epl_matches SET away_club = 'Middlesbrough' WHERE away_club ='Middlesboro';,
+Newcastle United,Newcastle,UPDATE epl_matches SET away_club = 'Newcastle United' WHERE away_club ='Newcastle';,
+Norwich City,Norwich,UPDATE epl_matches SET away_club = 'Norwich City' WHERE away_club ='Norwich';,
+Queens Park Rangers,QPR,UPDATE epl_matches SET away_club = 'Queens Park Rangers' WHERE away_club ='QPR';,
+Sheffield United,Sheffield Utd,UPDATE epl_matches SET away_club = 'Sheffield United' WHERE away_club ='Sheffield Utd';,
+Tottenham Hotspur,Spurs,UPDATE epl_matches SET away_club = 'Tottenham Hotspur' WHERE away_club ='Spurs';,
+Tottenham Hotspur,Tottenham,UPDATE epl_matches SET away_club = 'Tottenham Hotspur' WHERE away_club ='Tottenham';,
+West Ham United,West Ham,UPDATE epl_matches SET away_club = 'West Ham United' WHERE away_club ='West Ham';,
+Wolverhampton Wanderers,Wolves,UPDATE epl_matches SET away_club = 'Wolverhampton Wanderers' WHERE away_club ='Wolves';,
+Brighton & Hove Albion,Brighton,UPDATE epl_matches SET away_club = 'Brighton & Hove Albion' WHERE away_club ='Brighton';,
