@@ -1,0 +1,396 @@
+{
+  "meta" : {
+    "format" : {
+      "name" : "GBSON",
+      "version" : "1.0.7",
+      "url" : "https://github.com/lehwark/GBSON/blob/master/GBSON.d.ts"
+    },
+    "circular" : false,
+    "locus" : "HIVHXB2CG",
+    "length" : 9719,
+    "datetime" : "2022-12-19T14:19:08.810+01:00",
+    "references" : [ {
+      "title" : "Appendix B: HTLV-3/LAV genome",
+      "index" : 1,
+      "authors" : "van Beveren,C.P., Coffin,J. and Hughes,S.",
+      "journal" : "(in) Weiss,R.L., Teich,N., Varmus,H. and Coffin,J. (Eds.); RNA TUMOR VIRUSES, SECOND EDITION, 2, Vol. 2: 1102-1123; Cold Spring Harbor Laboratory, Cold Spring Harbor (1985)"
+    }, {
+      "title" : "Complete nucleotide sequence of the AIDS virus, HTLV-III",
+      "index" : 2,
+      "authors" : "Ratner,L., Haseltine,W., Patarca,R., Livak,K.J., Starcich,B., Josephs,S.F., Doran,E.R., Rafalski,J.A., Whitehorn,E.A., Baumeister,K., Ivanoff,L., Petteway,S.R. Jr., Pearson,M.L., Lautenberger,J.A., Papas,T.S., Ghrayeb,J., Chang,N.T., Gallo,R.C. and Wong-Staal,F.",
+      "journal" : "Nature 313 (6000), 277-284 (1985)",
+      "pubmed" : "2578615"
+    }, {
+      "title" : "Characterization of long terminal repeat sequences of HTLV-III",
+      "index" : 3,
+      "range" : [ 1, 653 ],
+      "authors" : "Starcich,B., Ratner,L., Josephs,S.F., Okamoto,T., Gallo,R.C. and Wong-Staal,F.",
+      "journal" : "Science 227 (4686), 538-540 (1985)",
+      "pubmed" : "2981438"
+    }, {
+      "title" : "Major glycoprotein antigens that induce antibodies in AIDS patients are encoded by HTLV-III",
+      "index" : 4,
+      "authors" : "Allan,J.S., Coligan,J.E., Barin,F., McLane,M.F., Sodroski,J.G., Rosen,C.A., Haseltine,W.A., Lee,T.H. and Essex,M.",
+      "journal" : "Science 228 (4703), 1091-1094 (1985)",
+      "pubmed" : "2986290"
+    }, {
+      "title" : "The location of cis-acting regulatory sequences in the human T cell lymphotropic virus type III (HTLV-III/LAV) long terminal repeat",
+      "index" : 5,
+      "authors" : "Rosen,C.A., Sodroski,J.G. and Haseltine,W.A.",
+      "journal" : "Cell 41 (3), 813-823 (1985)",
+      "pubmed" : "2988790"
+    }, {
+      "title" : "Trans-activator gene of human T-lymphotropic virus type III (HTLV-III)",
+      "index" : 6,
+      "authors" : "Arya,S.K., Guo,C., Josephs,S.F. and Wong-Staal,F.",
+      "journal" : "Science 229 (4708), 69-73 (1985)",
+      "pubmed" : "2990040"
+    }, {
+      "title" : "Location of the trans-activating region on the genome of human T-cell lymphotropic virus type III",
+      "index" : 7,
+      "authors" : "Sodroski,J., Patarca,R., Rosen,C., Wong-Staal,F. and Haseltine,W.",
+      "journal" : "Science 229 (4708), 74-77 (1985)",
+      "pubmed" : "2990041"
+    }, {
+      "title" : "Transcription of novel open reading frames of AIDS retrovirus during infection of lymphocytes",
+      "index" : 8,
+      "authors" : "Rabson,A.B., Daugherty,D.F., Venkatesan,S., Boulukos,K.E., Benn,S.I., Folks,T.M., Feorino,P. and Martin,M.A.",
+      "journal" : "Science 229 (4720), 1388-1390 (1985)",
+      "pubmed" : "2994220"
+    }, {
+      "title" : "A new HTLV-III/LAV encoded antigen detected by antibodies from AIDS patients",
+      "index" : 9,
+      "authors" : "Allan,J.S., Coligan,J.E., Lee,T.H., McLane,M.F., Kanki,P.J., Groopman,J.E. and Essex,M.",
+      "journal" : "Science 230 (4727), 810-813 (1985)",
+      "pubmed" : "2997921"
+    }, {
+      "title" : "Post-transcriptional regulation accounts for the trans-activation of the human T-lymphotropic virus type III",
+      "index" : 10,
+      "authors" : "Rosen,C.A., Sodroski,J.G., Goh,W.C., Dayton,A.I., Lippke,J. and Haseltine,W.A.",
+      "journal" : "Nature 319 (6054), 555-559 (1986)",
+      "pubmed" : "3003584"
+    }, {
+      "title" : "Characterization of highly immunogenic p66/p51 as the reverse transcriptase of HTLV-III/LAV",
+      "index" : 11,
+      "authors" : "di Marzo Veronese,F., Copeland,T.D., DeVico,A.L., Rahman,R., Oroszlan,S., Gallo,R.C. and Sarngadharan,M.G.",
+      "journal" : "Science 231 (4743), 1289-1291 (1986)",
+      "pubmed" : "2418504"
+    }, {
+      "title" : "HTLV-III gag protein is processed in yeast cells by the virus pol-protease",
+      "index" : 12,
+      "authors" : "Kramer,R.A., Schaber,M.D., Skalka,A.M., Ganguly,K., Wong-Staal,F. and Reddy,E.P.",
+      "journal" : "Science 231 (4745), 1580-1584 (1986)",
+      "pubmed" : "2420008"
+    }, {
+      "title" : "The trans-activator gene of the human T cell lymphotropic virus type III is required for replication",
+      "index" : 13,
+      "authors" : "Dayton,A.I., Sodroski,J.G., Rosen,C.A., Goh,W.C. and Haseltine,W.A.",
+      "journal" : "Cell 44 (6), 941-947 (1986)",
+      "pubmed" : "2420471"
+    }, {
+      "title" : "A new HTLV-III/LAV protein encoded by a gene found in cytopathic retroviruses",
+      "index" : 14,
+      "authors" : "Lee,T.H., Coligan,J.E., Allan,J.S., McLane,M.F., Groopman,J.E. and Essex,M.",
+      "journal" : "Science 231 (4745), 1546-1549 (1986)",
+      "pubmed" : "3006243"
+    }, {
+      "title" : "Replicative and cytopathic potential of HTLV-III/LAV with sor gene deletions",
+      "index" : 15,
+      "authors" : "Sodroski,J., Goh,W.C., Rosen,C., Tartar,A., Portetelle,D., Burny,A. and Haseltine,W.",
+      "journal" : "Science 231 (4745), 1549-1553 (1986)",
+      "pubmed" : "3006244"
+    }, {
+      "title" : "Identification of HTLV-III/LAV sor gene product and detection of antibodies in human sera",
+      "index" : 16,
+      "authors" : "Kan,N.C., Franchini,G., Wong-Staal,F., DuBois,G.C., Robey,W.G., Lautenberger,J.A. and Papas,T.S.",
+      "journal" : "Science 231 (4745), 1553-1555 (1986)",
+      "pubmed" : "3006245"
+    }, {
+      "title" : "Three novel genes of human T-lymphotropic virus type III: immune reactivity of their products with sera from acquired immune deficiency syndrome patients",
+      "index" : 17,
+      "authors" : "Arya,S.K. and Gallo,R.C.",
+      "journal" : "Proc. Natl. Acad. Sci. U.S.A. 83 (7), 2209-2213 (1986)",
+      "pubmed" : "3008154"
+    }, {
+      "title" : "Activation of the AIDS retrovirus promoter by the cellular transcription factor, Sp1",
+      "index" : 18,
+      "authors" : "Jones,K.A., Kadonaga,J.T., Luciw,P.A. and Tjian,R.",
+      "journal" : "Science 232 (4751), 755-759 (1986)",
+      "pubmed" : "3008338"
+    }, {
+      "title" : "A second post-transcriptional trans-activator gene required for HTLV-III replication",
+      "index" : 19,
+      "authors" : "Sodroski,J., Goh,W.C., Rosen,C., Dayton,A., Terwilliger,E. and Haseltine,W.",
+      "journal" : "Nature 321 (6068), 412-417 (1986)",
+      "pubmed" : "3012355"
+    }, {
+      "title" : "Identification and characterization of conserved and variable regions in the envelope gene of HTLV-III/LAV, the retrovirus of AIDS",
+      "index" : 20,
+      "authors" : "Starcich,B.R., Hahn,B.H., Shaw,G.M., McNeely,P.D., Modrow,S., Wolf,H., Parks,E.S., Parks,W.P., Josephs,S.F., Gallo,R.C. and Wong-Staal,F.",
+      "journal" : "Cell 45 (5), 637-648 (1986)",
+      "pubmed" : "2423250"
+    }, {
+      "title" : "Identification of conserved and divergent domains within the envelope gene of the acquired immunodeficiency syndrome retrovirus",
+      "index" : 21,
+      "authors" : "Willey,R.L., Rutledge,R.A., Dias,S., Folks,T., Theodore,T., Buckler,C.E. and Martin,M.A.",
+      "journal" : "Proc. Natl. Acad. Sci. U.S.A. 83 (14), 5038-5042 (1986)",
+      "pubmed" : "3014529"
+    }, {
+      "title" : "Infectious mutants of HTLV-III with changes in the 3' region and markedly reduced cytopathic effects",
+      "index" : 22,
+      "range" : [ 8761, 9060 ],
+      "authors" : "Fisher,A.G., Ratner,L., Mitsuya,H., Marselle,L.M., Harper,M.E., Broder,S., Gallo,R.C. and Wong-Staal,F.",
+      "journal" : "Science 233 (4764), 655-659 (1986)",
+      "pubmed" : "3014663"
+    }, {
+      "title" : "HTLV-III expression and production involve complex regulation at the levels of splicing and translation of viral RNA",
+      "index" : 23,
+      "authors" : "Feinberg,M.B., Jarrett,R.F., Aldovini,A., Gallo,R.C. and Wong-Staal,F.",
+      "journal" : "Cell 46 (6), 807-817 (1986)",
+      "pubmed" : "3638988"
+    }, {
+      "title" : "Structural characterization of reverse transcriptase and endonuclease polypeptides of the acquired immunodeficiency syndrome retrovirus",
+      "index" : 24,
+      "authors" : "Lightfoote,M.M., Coligan,J.E., Folks,T.M., Fauci,A.S., Martin,M.A. and Venkatesan,S.",
+      "journal" : "J. Virol. 60 (2), 771-775 (1986)",
+      "pubmed" : "2430111"
+    }, {
+      "title" : "Effects of mutations within the 3' orf open reading frame region of human T-cell lymphotropic virus type III (HTLV-III/LAV) on replication and cytopathogenicity",
+      "index" : 25,
+      "authors" : "Terwilliger,E., Sodroski,J.G., Rosen,C.A. and Haseltine,W.A.",
+      "journal" : "J. Virol. 60 (2), 754-760 (1986)",
+      "pubmed" : "3490583"
+    }, {
+      "title" : "Expression and characterization of the trans-activator of HTLV-III/LAV virus",
+      "index" : 26,
+      "authors" : "Wright,C.M., Felber,B.K., Paskalis,H. and Pavlakis,G.N.",
+      "journal" : "Science 234 (4779), 988-992 (1986)",
+      "pubmed" : "3490693"
+    }, {
+      "title" : "Transcription directed by the HIV long terminal repeat in vitro",
+      "index" : 27,
+      "authors" : "Patarca,R., Heath,C., Goldenberg,G.J., Rosen,C.A., Sodroski,J.G., Haseltine,W.A. and Hansen,U.M.",
+      "journal" : "AIDS Res. Hum. Retroviruses 3 (1), 41-55 (1987)",
+      "pubmed" : "3040054"
+    }, {
+      "title" : "Complete nucleotide sequences of functional clones of the AIDS virus",
+      "index" : 28,
+      "range" : [ 1, 9635 ],
+      "authors" : "Ratner,L., Fisher,A., Jagodzinski,L.L., Mitsuya,H., Liou,R.S., Gallo,R.C. and Wong-Staal,F.",
+      "journal" : "AIDS Res. Hum. Retroviruses 3 (1), 57-69 (1987)",
+      "pubmed" : "3040055"
+    }, {
+      "title" : "Human immunodeficiency virus: the eighth gene",
+      "index" : 29,
+      "authors" : "Wong-Staal,F., Chanda,P.K. and Ghrayeb,J.",
+      "journal" : "AIDS Res. Hum. Retroviruses 3 (1), 33-39 (1987)",
+      "pubmed" : "3476127"
+    }, {
+      "title" : "Computer-assisted analysis of envelope protein sequences of seven human immunodeficiency virus isolates: prediction of antigenic epitopes in conserved and variable regions",
+      "index" : 30,
+      "authors" : "Modrow,S., Hahn,B.H., Shaw,G.M., Gallo,R.C., Wong-Staal,F. and Wolf,H.",
+      "journal" : "J. Virol. 61 (2), 570-578 (1987)",
+      "pubmed" : "2433466"
+    }, {
+      "title" : "Expression of the art gene protein of human T-lymphotropic virus type III (HTLV-III/LAV) in bacteria",
+      "index" : 31,
+      "authors" : "Goh,W.C., Sodroski,J.G., Rosen,C.A. and Haseltine,W.A.",
+      "journal" : "J. Virol. 61 (2), 633-637 (1987)",
+      "pubmed" : "3543401"
+    }, {
+      "title" : "Regulation of mRNA accumulation by a human immunodeficiency virus trans-activator protein",
+      "index" : 32,
+      "authors" : "Muesing,M.A., Smith,D.H. and Capon,D.J.",
+      "journal" : "Cell 48 (4), 691-701 (1987)",
+      "pubmed" : "3643816"
+    }, {
+      "title" : "An inducible transcription factor activates expression of human immunodeficiency virus in T cells",
+      "index" : 33,
+      "authors" : "Nabel,G. and Baltimore,D.",
+      "journal" : "Nature 326 (6114), 711-713 (1987)",
+      "pubmed" : "3031512",
+      "remark" : "Erratum:[Nature 1990 Mar 8;344(6262):178]"
+    }, {
+      "title" : "The sor gene of HIV-1 is required for efficient virus transmission in vitro",
+      "index" : 34,
+      "authors" : "Fisher,A.G., Ensoli,B., Ivanoff,L., Chamberlain,M., Petteway,S., Ratner,L., Gallo,R.C. and Wong-Staal,F.",
+      "journal" : "Science 237 (4817), 888-893 (1987)",
+      "pubmed" : "3497453"
+    }, {
+      "title" : "Generation of a neutralization-resistant variant of HIV-1 is due to selection for a point mutation in the envelope gene",
+      "index" : 35,
+      "range" : [ 6225, 8795 ],
+      "authors" : "Reitz,M.S. Jr., Wilson,C., Naugle,C., Gallo,R.C. and Robert-Guroff,M.",
+      "journal" : "Cell 54 (1), 57-63 (1988)",
+      "pubmed" : "2838179"
+    }, {
+      "title" : "Myristoylation of gag proteins of HIV-1 plays an important role in virus assembly",
+      "index" : 36,
+      "range" : [ 790, 2292 ],
+      "authors" : "Pal,R., Reitz,M.S. Jr., Tschachler,E., Gallo,R.C., Sarngadharan,M.G. and Veronese,F.D.",
+      "journal" : "AIDS Res. Hum. Retroviruses 6 (6), 721-730 (1990)",
+      "pubmed" : "2194551"
+    }, {
+      "title" : "Kinetic studies of human immunodeficiency virus type 1 protease and its active-site hydrogen bond mutant A28S",
+      "index" : 37,
+      "authors" : "Ido,E., Han,H.P., Kezdy,F.J. and Tang,J.",
+      "journal" : "J. Biol. Chem. 266 (36), 24359-24366 (1991)",
+      "pubmed" : "1761538"
+    } ],
+    "definition" : "Human immunodeficiency virus type 1 (HXB2), complete genome; HIV1/HTLV-III/LAV reference genome.",
+    "accession" : "K03455 M38432",
+    "version" : "K03455.1",
+    "keywords" : "TAR protein; acquired immune deficiency syndrome; complete genome; env protein; gag protein; long terminal repeat (LTR); pol protein; polyprotein; proviral gene; reverse transcriptase; transactivator.",
+    "source" : {
+      "range" : [ 1, 9719 ],
+      "isolate" : "HXB2",
+      "db_xref" : "taxon:11676",
+      "note" : "HTLV-III/LAV",
+      "organism" : "Human immunodeficiency virus 1",
+      "mol_type" : "genomic RNA"
+    },
+    "organism" : "Human immunodeficiency virus 1 Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus."
+  },
+  "features" : [ {
+    "id" : "i2",
+    "type" : "repeat_region",
+    "range" : [ 1, 634 ],
+    "rpt_type" : "long_terminal_repeat",
+    "note" : "5' LTR"
+  }, {
+    "id" : "i3",
+    "type" : "repeat_region",
+    "range" : [ 454, 551 ],
+    "note" : "R repeat 5' copy"
+  }, {
+    "id" : "i4",
+    "type" : "mrna",
+    "range" : [ 455, 9635 ],
+    "product" : "HXB2 genomic mRNA"
+  }, {
+    "id" : "i5",
+    "type" : "prim_transcript",
+    "range" : [ 455, 9635 ],
+    "note" : "tat, trs, 27K subgenomic mRNA"
+  }, {
+    "id" : "i6",
+    "type" : "intron",
+    "range" : [ 744, 5777 ],
+    "note" : "tat, trs, 27K mRNA intron 1"
+  }, {
+    "id" : "i7",
+    "type" : "cds",
+    "range" : [ 790, 2292 ],
+    "note" : "gag polyprotein",
+    "codon_start" : "1",
+    "protein_id" : "AAB50258.1",
+    "translation" : "MGARASVLSGGELDRWEKIRLRPGGKKKYKLKHIVWASRELERFAVNPGLLETSEGCRQILGQLQPSLQTGSEELRSLYNTVATLYCVHQRIEIKDTKEALDKIEEEQNKSKKKAQQAAADTGHSNQVSQNYPIVQNIQGQMVHQAISPRTLNAWVKVVEEKAFSPEVIPMFSALSEGATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRVHPVHAGPIAPGQMREPRGSDIAGTTSTLQEQIGWMTNNPPIPVGEIYKRWIILGLNKIVRMYSPTSILDIRQGPKEPFRDYVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTILKALGPAATLEEMMTACQGVGGPGHKARVLAEAMSQVTNSATIMMQRGNFRNQRKIVKCFNCGKEGHTARNCRAPRKKGCWKCGKEGHQMKDCTERQANFLGKIWPSYKGRPGNFLQSRPEPTAPPEESFRSGVETTTPPQKQEPIDKELYPLTSLRSLFGNDPSSQ"
+  }, {
+    "id" : "i8",
+    "type" : "cds",
+    "range" : [ 2358, 5096 ],
+    "note" : "pol polyprotein (NH2-terminus uncertain)",
+    "codon_start" : "1",
+    "protein_id" : "AAB50259.1",
+    "translation" : "MSLPGRWKPKMIGGIGGFIKVRQYDQILIEICGHKAIGTVLVGPTPVNIIGRNLLTQIGCTLNFPISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTEMEKEGKISKIGPENPYNTPVFAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIPHPAGLKKKKSVTVLDVGDAYFSVPLDEDFRKYTAFTIPSINNETPGIRYQYNVLPQGWKGSPAIFQSSMTKILEPFRKQNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELRQHLLRWGLTTPDKKHQKEPPFLWMGYELHPDKWTVQPIVLPEKDSWTVNDIQKLVGKLNWASQIYPGIKVRQLCKLLRGTKALTEVIPLTEEAELELAENREILKEPVHGVYYDPSKDLIAEIQKQGQGQWTYQIYQEPFKNLKTGKYARMRGAHTNDVKQLTEAVQKITTESIVIWGKTPKFKLPIQKETWETWWTEYWQATWIPEWEFVNTPPLVKLWYQLEKEPIVGAETFYVDGAANRETKLGKAGYVTNRGRQKVVTLTDTTNQKTELQAIYLALQDSGLEVNIVTDSQYALGIIQAQPDQSESELVNQIIEQLIKKEKVYLAWVPAHKGIGGNEQVDKLVSAGIRKVLFLDGIDKAQDEHEKYHSNWRAMASDFNLPPVVAKEIVASCDKCQLKGEAMHGQVDCSPGIWQLDCTHLEGKVILVAVHVASGYIEAEVIPAETGQETAYFLLKLAGRWPVKTIHTDNGSNFTGATVRAACWWAGIKQEFGIPYNPQSQGVVESMNKELKKIIGQVRDQAEHLKTAVQMAVFIHNFKRKGGIGGYSAGERIVDIIATDIQTKELQKQITKIQNFRVYYRDSRNPLWKGPAKLLWKGEGAVVIQDNSDIKVVPRRKAKIIRDYGKQMAGDDCVASRQDED"
+  }, {
+    "id" : "i9",
+    "type" : "cds",
+    "range" : [ 5041, 5619 ],
+    "note" : "sor 23K protein",
+    "codon_start" : "1",
+    "protein_id" : "AAB50260.1",
+    "translation" : "MENRWQVMIVWQVDRMRIRTWKSLVKHHMYVSGKARGWFYRHHYESPHPRISSEVHIPLGDARLVITTYWGLHTGERDWHLGQGVSIEWRKKRYSTQVDPELADQLIHLYYFDCFSDSAIRKALLGHIVSPRCEYQAGHNKVGSLQYLALAALITPKKIKPPLPSVTKLTEDRWNKPQKTKGHRGSHTMNGH"
+  }, {
+    "id" : "i10",
+    "type" : "cds",
+    "range" : [ 5559, 5795 ],
+    "note" : "R (ORF) protein",
+    "codon_start" : "1",
+    "protein_id" : "AAB50261.1",
+    "translation" : "MEQAPEDQGPQREPHNEWTLELLEELKNEAVRHFPRIWLHGLGQHIYETYGDTWAGVEAIIRILQQLLFIHFQNWVST"
+  }, {
+    "id" : "i11",
+    "type" : "cds",
+    "range" : {
+      "joined" : [ [ 5831, 6045 ], [ 8379, 8424 ] ]
+    },
+    "note" : "tat protein",
+    "codon_start" : "1",
+    "protein_id" : "AAB50256.1",
+    "translation" : "MEPVDPRLEPWKHPGSQPKTACTNCYCKKCCFHCQVCFITKALGISYGRKKRRQRRRAHQNSQTHQASLSKQPTSQPRGDPTGPKE"
+  }, {
+    "id" : "i12",
+    "type" : "exon",
+    "range" : [ 5831, 6045 ],
+    "note" : "tat protein, first expressed exon",
+    "number" : "2"
+  }, {
+    "id" : "i13",
+    "type" : "cds",
+    "range" : {
+      "joined" : [ [ 5970, 6045 ], [ 8379, 8653 ] ]
+    },
+    "note" : "trs protein",
+    "codon_start" : "1",
+    "protein_id" : "AAB50257.1",
+    "translation" : "MAGRSGDSDEELIRTVRLIKLLYQSNPPPNPEGTRQARRNRRRRWRERQRQIHSISERILGTYLGRSAEPVPLQLPPLERLTLDCNEDCGTSGTQGVGSPQILVESPTVLESGTKE"
+  }, {
+    "id" : "i14",
+    "type" : "exon",
+    "range" : [ 5970, 6045 ],
+    "note" : "trs protein, first expressed exon",
+    "number" : "2"
+  }, {
+    "id" : "i15",
+    "type" : "intron",
+    "range" : [ 6046, 8378 ],
+    "note" : "tat, trs, 27K mRNA intron 2"
+  }, {
+    "id" : "i16",
+    "type" : "cds",
+    "range" : [ 6225, 8795 ],
+    "note" : "envelope polyprotein",
+    "codon_start" : "1",
+    "protein_id" : "AAB50262.1",
+    "translation" : "MRVKEKYQHLWRWGWRWGTMLLGMLMICSATEKLWVTVYYGVPVWKEATTTLFCASDAKAYDTEVHNVWATHACVPTDPNPQEVVLVNVTENFNMWKNDMVEQMHEDIISLWDQSLKPCVKLTPLCVSLKCTDLKNDTNTNSSSGRMIMEKGEIKNCSFNISTSIRGKVQKEYAFFYKLDIIPIDNDTTSYKLTSCNTSVITQACPKVSFEPIPIHYCAPAGFAILKCNNKTFNGTGPCTNVSTVQCTHGIRPVVSTQLLLNGSLAEEEVVIRSVNFTDNAKTIIVQLNTSVEINCTRPNNNTRKRIRIQRGPGRAFVTIGKIGNMRQAHCNISRAKWNNTLKQIASKLREQFGNNKTIIFKQSSGGDPEIVTHSFNCGGEFFYCNSTQLFNSTWFNSTWSTEGSNNTEGSDTITLPCRIKQIINMWQKVGKAMYAPPISGQIRCSSNITGLLLTRDGGNSNNESEIFRPGGGDMRDNWRSELYKYKVVKIEPLGVAPTKAKRRVVQREKRAVGIGALFLGFLGAAGSTMGAASMTLTVQARQLLSGIVQQQNNLLRAIEAQQHLLQLTVWGIKQLQARILAVERYLKDQQLLGIWGCSGKLICTTAVPWNASWSNKSLEQIWNHTTWMEWDREINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWFNITNWLWYIKLFIMIVGGLVGLRIVFAVLSIVNRVRQGYSPLSFQTHLPTPRGPDRPEGIEEEGGERDRDRSIRLVNGSLALIWDDLRSLCLFSYHRLRDLLLIVTRIVELLGRRGWEALKYWWNLLQYWSQELKNSAVSLLNATAIAVAEGTDRVIEVVQGACRAIRHIPRRIRQGLERILL"
+  }, {
+    "id" : "i17",
+    "type" : "exon",
+    "range" : [ 8379, 8652 ],
+    "note" : "trs protein",
+    "number" : "3"
+  }, {
+    "id" : "i18",
+    "type" : "exon",
+    "range" : [ 8379, 8424 ],
+    "note" : "tat protein",
+    "number" : "3"
+  }, {
+    "id" : "i19",
+    "type" : "cds",
+    "range" : [ 8797, 9168 ],
+    "note" : "27K protein (premature termination)",
+    "codon_start" : "1",
+    "protein_id" : "AAB50263.1",
+    "translation" : "MGGKWSKSSVIGWPTVRERMRRAEPAADRVGAASRDLEKHGAITSSNTAATNAACAWLEAQEEEEVGFPVTPQVPLRPMTYKAAVDLSHFLKEKGGLEGLIHSQRRQDILDLWIYHTQGYFPD"
+  }, {
+    "id" : "i20",
+    "type" : "repeat_region",
+    "range" : [ 9086, 9719 ],
+    "rpt_type" : "long_terminal_repeat",
+    "note" : "3' LTR"
+  }, {
+    "id" : "i21",
+    "type" : "repeat_region",
+    "range" : [ 9540, 9636 ],
+    "note" : "R repeat 3' copy"
+  }, {
+    "id" : "i22",
+    "type" : "regulatory",
+    "range" : [ 9612, 9617 ],
+    "note" : "HXB2 mRNA polyadenyation signal",
+    "regulatory_class" : "polyA_signal_sequence"
+  } ],
+  "origin" : "tggaagggctaattcactcccaacgaagacaagatatccttgatctgtggatctaccacacacaaggctacttccctgattagcagaactacacaccagggccagggatcagatatccactgacctttggatggtgctacaagctagtaccagttgagccagagaagttagaagaagccaacaaaggagagaacaccagcttgttacaccctgtgagcctgcatggaatggatgacccggagagagaagtgttagagtggaggtttgacagccgcctagcatttcatcacatggcccgagagctgcatccggagtacttcaagaactgctgacatcgagcttgctacaagggactttccgctggggactttccagggaggcgtggcctgggcgggactggggagtggcgagccctcagatcctgcatataagcagctgctttttgcctgtactgggtctctctggttagaccagatctgagcctgggagctctctggctaactagggaacccactgcttaagcctcaataaagcttgccttgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctcagacccttttagtcagtgtggaaaatctctagcagtggcgcccgaacagggacctgaaagcgaaagggaaaccagaggagctctctcgacgcaggactcggcttgctgaagcgcgcacggcaagaggcgaggggcggcgactggtgagtacgccaaaaattttgactagcggaggctagaaggagagagatgggtgcgagagcgtcagtattaagcgggggagaattagatcgatgggaaaaaattcggttaaggccagggggaaagaaaaaatataaattaaaacatatagtatgggcaagcagggagctagaacgattcgcagttaatcctggcctgttagaaacatcagaaggctgtagacaaatactgggacagctacaaccatcccttcagacaggatcagaagaacttagatcattatataatacagtagcaaccctctattgtgtgcatcaaaggatagagataaaagacaccaaggaagctttagacaagatagaggaagagcaaaacaaaagtaagaaaaaagcacagcaagcagcagctgacacaggacacagcaatcaggtcagccaaaattaccctatagtgcagaacatccaggggcaaatggtacatcaggccatatcacctagaactttaaatgcatgggtaaaagtagtagaagagaaggctttcagcccagaagtgatacccatgttttcagcattatcagaaggagccaccccacaagatttaaacaccatgctaaacacagtggggggacatcaagcagccatgcaaatgttaaaagagaccatcaatgaggaagctgcagaatgggatagagtgcatccagtgcatgcagggcctattgcaccaggccagatgagagaaccaaggggaagtgacatagcaggaactactagtacccttcaggaacaaataggatggatgacaaataatccacctatcccagtaggagaaatttataaaagatggataatcctgggattaaataaaatagtaagaatgtatagccctaccagcattctggacataagacaaggaccaaaggaaccctttagagactatgtagaccggttctataaaactctaagagccgagcaagcttcacaggaggtaaaaaattggatgacagaaaccttgttggtccaaaatgcgaacccagattgtaagactattttaaaagcattgggaccagcggctacactagaagaaatgatgacagcatgtcagggagtaggaggacccggccataaggcaagagttttggctgaagcaatgagccaagtaacaaattcagctaccataatgatgcagagaggcaattttaggaaccaaagaaagattgttaagtgtttcaattgtggcaaagaagggcacacagccagaaattgcagggcccctaggaaaaagggctgttggaaatgtggaaaggaaggacaccaaatgaaagattgtactgagagacaggctaattttttagggaagatctggccttcctacaagggaaggccagggaattttcttcagagcagaccagagccaacagccccaccagaagagagcttcaggtctggggtagagacaacaactccccctcagaagcaggagccgatagacaaggaactgtatcctttaacttccctcaggtcactctttggcaacgacccctcgtcacaataaagataggggggcaactaaaggaagctctattagatacaggagcagatgatacagtattagaagaaatgagtttgccaggaagatggaaaccaaaaatgatagggggaattggaggttttatcaaagtaagacagtatgatcagatactcatagaaatctgtggacataaagctataggtacagtattagtaggacctacacctgtcaacataattggaagaaatctgttgactcagattggttgcactttaaattttcccattagccctattgagactgtaccagtaaaattaaagccaggaatggatggcccaaaagttaaacaatggccattgacagaagaaaaaataaaagcattagtagaaatttgtacagagatggaaaaggaagggaaaatttcaaaaattgggcctgaaaatccatacaatactccagtatttgccataaagaaaaaagacagtactaaatggagaaaattagtagatttcagagaacttaataagagaactcaagacttctgggaagttcaattaggaataccacatcccgcagggttaaaaaagaaaaaatcagtaacagtactggatgtgggtgatgcatatttttcagttcccttagatgaagacttcaggaagtatactgcatttaccatacctagtataaacaatgagacaccagggattagatatcagtacaatgtgcttccacagggatggaaaggatcaccagcaatattccaaagtagcatgacaaaaatcttagagccttttagaaaacaaaatccagacatagttatctatcaatacatggatgatttgtatgtaggatctgacttagaaatagggcagcatagaacaaaaatagaggagctgagacaacatctgttgaggtggggacttaccacaccagacaaaaaacatcagaaagaacctccattcctttggatgggttatgaactccatcctgataaatggacagtacagcctatagtgctgccagaaaaagacagctggactgtcaatgacatacagaagttagtggggaaattgaattgggcaagtcagatttacccagggattaaagtaaggcaattatgtaaactccttagaggaaccaaagcactaacagaagtaataccactaacagaagaagcagagctagaactggcagaaaacagagagattctaaaagaaccagtacatggagtgtattatgacccatcaaaagacttaatagcagaaatacagaagcaggggcaaggccaatggacatatcaaatttatcaagagccatttaaaaatctgaaaacaggaaaatatgcaagaatgaggggtgcccacactaatgatgtaaaacaattaacagaggcagtgcaaaaaataaccacagaaagcatagtaatatggggaaagactcctaaatttaaactgcccatacaaaaggaaacatgggaaacatggtggacagagtattggcaagccacctggattcctgagtgggagtttgttaatacccctcccttagtgaaattatggtaccagttagagaaagaacccatagtaggagcagaaaccttctatgtagatggggcagctaacagggagactaaattaggaaaagcaggatatgttactaatagaggaagacaaaaagttgtcaccctaactgacacaacaaatcagaagactgagttacaagcaatttatctagctttgcaggattcgggattagaagtaaacatagtaacagactcacaatatgcattaggaatcattcaagcacaaccagatcaaagtgaatcagagttagtcaatcaaataatagagcagttaataaaaaaggaaaaggtctatctggcatgggtaccagcacacaaaggaattggaggaaatgaacaagtagataaattagtcagtgctggaatcaggaaagtactatttttagatggaatagataaggcccaagatgaacatgagaaatatcacagtaattggagagcaatggctagtgattttaacctgccacctgtagtagcaaaagaaatagtagccagctgtgataaatgtcagctaaaaggagaagccatgcatggacaagtagactgtagtccaggaatatggcaactagattgtacacatttagaaggaaaagttatcctggtagcagttcatgtagccagtggatatatagaagcagaagttattccagcagaaacagggcaggaaacagcatattttcttttaaaattagcaggaagatggccagtaaaaacaatacatactgacaatggcagcaatttcaccggtgctacggttagggccgcctgttggtgggcgggaatcaagcaggaatttggaattccctacaatccccaaagtcaaggagtagtagaatctatgaataaagaattaaagaaaattataggacaggtaagagatcaggctgaacatcttaagacagcagtacaaatggcagtattcatccacaattttaaaagaaaaggggggattggggggtacagtgcaggggaaagaatagtagacataatagcaacagacatacaaactaaagaattacaaaaacaaattacaaaaattcaaaattttcgggtttattacagggacagcagaaatccactttggaaaggaccagcaaagctcctctggaaaggtgaaggggcagtagtaatacaagataatagtgacataaaagtagtgccaagaagaaaagcaaagatcattagggattatggaaaacagatggcaggtgatgattgtgtggcaagtagacaggatgaggattagaacatggaaaagtttagtaaaacaccatatgtatgtttcagggaaagctaggggatggttttatagacatcactatgaaagccctcatccaagaataagttcagaagtacacatcccactaggggatgctagattggtaataacaacatattggggtctgcatacaggagaaagagactggcatttgggtcagggagtctccatagaatggaggaaaaagagatatagcacacaagtagaccctgaactagcagaccaactaattcatctgtattactttgactgtttttcagactctgctataagaaaggccttattaggacacatagttagccctaggtgtgaatatcaagcaggacataacaaggtaggatctctacaatacttggcactagcagcattaataacaccaaaaaagataaagccacctttgcctagtgttacgaaactgacagaggatagatggaacaagccccagaagaccaagggccacagagggagccacacaatgaatggacactagagcttttagaggagcttaagaatgaagctgttagacattttcctaggatttggctccatggcttagggcaacatatctatgaaacttatggggatacttgggcaggagtggaagccataataagaattctgcaacaactgctgtttatccattttcagaattgggtgtcgacatagcagaataggcgttactcgacagaggagagcaagaaatggagccagtagatcctagactagagccctggaagcatccaggaagtcagcctaaaactgcttgtaccaattgctattgtaaaaagtgttgctttcattgccaagtttgtttcataacaaaagccttaggcatctcctatggcaggaagaagcggagacagcgacgaagagctcatcagaacagtcagactcatcaagcttctctatcaaagcagtaagtagtacatgtaacgcaacctataccaatagtagcaatagtagcattagtagtagcaataataatagcaatagttgtgtggtccatagtaatcatagaatataggaaaatattaagacaaagaaaaatagacaggttaattgatagactaatagaaagagcagaagacagtggcaatgagagtgaaggagaaatatcagcacttgtggagatgggggtggagatggggcaccatgctccttgggatgttgatgatctgtagtgctacagaaaaattgtgggtcacagtctattatggggtacctgtgtggaaggaagcaaccaccactctattttgtgcatcagatgctaaagcatatgatacagaggtacataatgtttgggccacacatgcctgtgtacccacagaccccaacccacaagaagtagtattggtaaatgtgacagaaaattttaacatgtggaaaaatgacatggtagaacagatgcatgaggatataatcagtttatgggatcaaagcctaaagccatgtgtaaaattaaccccactctgtgttagtttaaagtgcactgatttgaagaatgatactaataccaatagtagtagcgggagaatgataatggagaaaggagagataaaaaactgctctttcaatatcagcacaagcataagaggtaaggtgcagaaagaatatgcatttttttataaacttgatataataccaatagataatgatactaccagctataagttgacaagttgtaacacctcagtcattacacaggcctgtccaaaggtatcctttgagccaattcccatacattattgtgccccggctggttttgcgattctaaaatgtaataataagacgttcaatggaacaggaccatgtacaaatgtcagcacagtacaatgtacacatggaattaggccagtagtatcaactcaactgctgttaaatggcagtctagcagaagaagaggtagtaattagatctgtcaatttcacggacaatgctaaaaccataatagtacagctgaacacatctgtagaaattaattgtacaagacccaacaacaatacaagaaaaagaatccgtatccagagaggaccagggagagcatttgttacaataggaaaaataggaaatatgagacaagcacattgtaacattagtagagcaaaatggaataacactttaaaacagatagctagcaaattaagagaacaatttggaaataataaaacaataatctttaagcaatcctcaggaggggacccagaaattgtaacgcacagttttaattgtggaggggaatttttctactgtaattcaacacaactgtttaatagtacttggtttaatagtacttggagtactgaagggtcaaataacactgaaggaagtgacacaatcaccctcccatgcagaataaaacaaattataaacatgtggcagaaagtaggaaaagcaatgtatgcccctcccatcagtggacaaattagatgttcatcaaatattacagggctgctattaacaagagatggtggtaatagcaacaatgagtccgagatcttcagacctggaggaggagatatgagggacaattggagaagtgaattatataaatataaagtagtaaaaattgaaccattaggagtagcacccaccaaggcaaagagaagagtggtgcagagagaaaaaagagcagtgggaataggagctttgttccttgggttcttgggagcagcaggaagcactatgggcgcagcctcaatgacgctgacggtacaggccagacaattattgtctggtatagtgcagcagcagaacaatttgctgagggctattgaggcgcaacagcatctgttgcaactcacagtctggggcatcaagcagctccaggcaagaatcctggctgtggaaagatacctaaaggatcaacagctcctggggatttggggttgctctggaaaactcatttgcaccactgctgtgccttggaatgctagttggagtaataaatctctggaacagatttggaatcacacgacctggatggagtgggacagagaaattaacaattacacaagcttaatacactccttaattgaagaatcgcaaaaccagcaagaaaagaatgaacaagaattattggaattagataaatgggcaagtttgtggaattggtttaacataacaaattggctgtggtatataaaattattcataatgatagtaggaggcttggtaggtttaagaatagtttttgctgtactttctatagtgaatagagttaggcagggatattcaccattatcgtttcagacccacctcccaaccccgaggggacccgacaggcccgaaggaatagaagaagaaggtggagagagagacagagacagatccattcgattagtgaacggatccttggcacttatctgggacgatctgcggagcctgtgcctcttcagctaccaccgcttgagagacttactcttgattgtaacgaggattgtggaacttctgggacgcagggggtgggaagccctcaaatattggtggaatctcctacagtattggagtcaggaactaaagaatagtgctgttagcttgctcaatgccacagccatagcagtagctgaggggacagatagggttatagaagtagtacaaggagcttgtagagctattcgccacatacctagaagaataagacagggcttggaaaggattttgctataagatgggtggcaagtggtcaaaaagtagtgtgattggatggcctactgtaagggaaagaatgagacgagctgagccagcagcagatagggtgggagcagcatctcgagacctggaaaaacatggagcaatcacaagtagcaatacagcagctaccaatgctgcttgtgcctggctagaagcacaagaggaggaggaggtgggttttccagtcacacctcaggtacctttaagaccaatgacttacaaggcagctgtagatcttagccactttttaaaagaaaaggggggactggaagggctaattcactcccaaagaagacaagatatccttgatctgtggatctaccacacacaaggctacttccctgattagcagaactacacaccagggccaggggtcagatatccactgacctttggatggtgctacaagctagtaccagttgagccagataagatagaagaggccaataaaggagagaacaccagcttgttacaccctgtgagcctgcatgggatggatgacccggagagagaagtgttagagtggaggtttgacagccgcctagcatttcatcacgtggcccgagagctgcatccggagtacttcaagaactgctgacatcgagcttgctacaagggactttccgctggggactttccagggaggcgtggcctgggcgggactggggagtggcgagccctcagatcctgcatataagcagctgctttttgcctgtactgggtctctctggttagaccagatctgagcctgggagctctctggctaactagggaacccactgcttaagcctcaataaagcttgccttgagtgcttcaagtagtgtgtgcccgtctgttgtgtgactctggtaactagagatccctcagacccttttagtcagtgtggaaaatctctagca"
+}
